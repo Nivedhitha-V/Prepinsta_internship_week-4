@@ -12,10 +12,12 @@ To merge, clean, and visualize three major indicators — **fertility rate**, **
 ---
 
 ## Datasets Used:
-- `Metadata_Country.csv`: Country Code and Region information
-- `country_population.csv`: Total population from 1960–2016
-- `fertility_rate.csv`: Fertility rates from 1960–2016
-- `life_expectancy.csv`: Life expectancy from 1960–2016
+| File | Discription |
+|------|-------------|
+| `Metadata_Country.csv`| Country Code and Region information |
+| `country_population.csv`| Total population from 1960–2016 |
+|`fertility_rate.csv`| Fertility rates from 1960–2016 |
+| `life_expectancy.csv` | Life expectancy from 1960–2016 |
 
 ---
 
@@ -38,7 +40,7 @@ Added a country code lookup tool to find a country's region by entering its 3-le
 
 ---
 
-## 📈 Output:
+## Output:
 A dynamic, year-wise visualization that highlights:
 - Decline in fertility rates
 - Rise in life expectancy
